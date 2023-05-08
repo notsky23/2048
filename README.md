@@ -30,9 +30,16 @@ How to play?<br>
     - Left Arrow: Slide all the tiles left.<br>
     - Right Arrow: Slide all the tiles right.<br>
 	- Clicking on X(window close) - exits game<br><br>
-  
+
+Game Start:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236724967-73991017-cdbd-430f-b1d2-6853d015d3bc.png)<br><br>
+
+Mid Game:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236725022-d99e4e81-85c1-4c81-8b90-2dbaf4fb5d14.png)<br><br>
+
+WIN:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236728737-e64839de-90ca-4339-8bc2-4fba40e4819d.png)<br><br>
+
+Lose:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236725070-7a460c54-e255-48f5-9e9f-fc48c6b52b7e.png)<br><br>
 
