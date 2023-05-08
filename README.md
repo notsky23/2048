@@ -43,3 +43,5 @@ WIN:<br>
 Lose:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236725070-7a460c54-e255-48f5-9e9f-fc48c6b52b7e.png)<br><br>
 
+Sample Game:<br>
+![2048](https://user-images.githubusercontent.com/98131995/236748883-b2bea3f5-591b-4b9f-8f8e-f3d492a1795f.gif)<br><br>
